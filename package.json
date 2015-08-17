@@ -1,0 +1,23 @@
+{
+  "name": "sync-to-github",
+  "version": "0.0.1",
+  "description": "Easily sync a directory of files to a GitHub repo using the GitHub API",
+  "main": "index.js",
+  "scripts": {
+    "test": "node_modules/.bin/gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Asana/node-sync-to-github.git"
+  },
+  "keywords": [
+    "github",
+    "sync"
+  ],
+  "author": "Greg Slovacek",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Asana/node-sync-to-github/issues"
+  },
+  "homepage": "https://github.com/Asana/node-sync-to-github"
+}
