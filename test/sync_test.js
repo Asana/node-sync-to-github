@@ -5,7 +5,9 @@ var sync = require('../lib/sync.js');
 
 describe('sync', function() {
 
-  describe('#getTreesForPath', function() {
+  describe('#parentTreesForPath', function() {
+
+    // TODO: tests
 
   });
 });
