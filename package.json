@@ -19,5 +19,14 @@
   "bugs": {
     "url": "https://github.com/Asana/node-sync-to-github/issues"
   },
-  "homepage": "https://github.com/Asana/node-sync-to-github"
+  "homepage": "https://github.com/Asana/node-sync-to-github",
+  "dependencies": {
+    "bluebird": "^2.9.34",
+    "fs-extra": "^0.23.1",
+    "github": "^0.2.4",
+    "lodash": "^3.10.1"
+  },
+  "devDependencies": {
+    "sinon": "^1.15.4"
+  }
 }
