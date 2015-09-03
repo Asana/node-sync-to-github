@@ -1,6 +1,6 @@
 {
   "name": "sync-to-github",
-  "version": "0.0.7",
+  "version": "0.1.0",
   "description": "Easily sync a directory of files to a GitHub repo using the GitHub API",
   "main": "index.js",
   "scripts": {
